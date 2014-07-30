@@ -1,2 +1,2 @@
-source: /home/pedro/Development/RubyProjects/MoveFiles/PIX_SOURCE
-base_dest: /home/pedro/Development/RubyProjects/MoveFiles/PIX_BASE_DEST
+source: ./PIX_SOURCE
+base_dest: ./PIX_BASE_DEST
