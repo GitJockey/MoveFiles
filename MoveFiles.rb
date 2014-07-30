@@ -1,4 +1,4 @@
-
+#this is a comment to test the commit capability of this editor
 class FileMover
  	ENVIRONMENT = 'development'
 	def initialize
